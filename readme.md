@@ -3,10 +3,15 @@ Akhan name calculator.
 ## Project description:
 It is a website that helps one know about the Akhan name to name his or her child according to the date he or she was born.
 ## Author's information:
-The author is Fiath Iminza
+The author is Faith Iminza
 ## Setup instructions:
 This website is an akan calculator that calculates the inputs(one's birthday)and outputs the(day one was born and the akan name according to the Ghanian culture).To be able to try this you can use this link https://faith-iminza.github.io/Khan-names/. That will enable you to see the page.
+## The live link of my project is:
+The link is https://faith-iminza.github.io/Khan-names/.
 ## BDD:
+My website always data of (century,year,month and date).This is one's day of birth.The century is the first two digits when you write the year and the last two is the year.For example 2019,the century is 20th and the year is the 19th.The month one has to write it in numbers and the date.
+The compliler processes the inputs on puts and manipulates the data to give the results of a day and the akan name one was born.
+This results will be shown by the small notification from the browser.
 ## Technologies used:
 The Technologies used to create this website include Javascript,HTML,CSS and bootstrap.
 ## Contact information:
