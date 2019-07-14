@@ -82,3 +82,4 @@ function checkGender(){
           console.log("pass");
   }
 }
+}
