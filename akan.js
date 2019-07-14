@@ -19,3 +19,12 @@ function calculate(){
 function checkDayOfWeek(){
      dayNum = calculate();
       checkGender();
+
+function checkGender(){
+    dayNum = calculate();
+    var radio = document.getElementsByName('gender');
+    if (radio[0].checked == true){
+    var gender="male";
+    }else if(radio[1].checked == true){
+    var gender="female";
+    }
