@@ -15,3 +15,7 @@ function calculate(){
 
     return (Math.floor(dayOfWeek));
 }
+
+function checkDayOfWeek(){
+     dayNum = calculate();
+      checkGender();
