@@ -1,5 +1,15 @@
 body {
   font-family: fantasy;
   font-size: 30px;
-  
+
+}
+.jumbotron{
+  background-image: url("akan.png");
+  background-attachment: fixed;
+}
+.jumbotron h1{
+  color: white;
+}
+.jumbotron p{
+  color: white;
 }
